@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+button {
+    background-color: grey;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btns {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
